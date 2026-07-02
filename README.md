@@ -1,5 +1,5 @@
 # 💫 About Me:
-iam currently a student pursuing fourth year of bachelors degree ECE,and iam learning web development through nxtwave academy<br>
+Hi, I'm Bharath Kumar, an Electronics & Communication Engineering student passionate about software development. I enjoy building projects with Python, HTML, CSS, and SQL, and I'm currently learning full-stack development. I'm always exploring new technologies and improving my coding skill
 
 
 ## 🌐 Socials:
